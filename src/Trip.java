@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 /**
  * Created by Paulo on 2017-09-09.
  */
-public class Solution2 {
+public class Trip {
 
     static int minimumNumberOfTrips(int tripMaxWeight, int[] packagesWeight) {
         Arrays.sort(packagesWeight);

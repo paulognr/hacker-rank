@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by Paulo on 2017-09-09.
  */
-public class Solution {
+public class DroneFlight {
 
     static List<Integer> greatestFlightRangeDrones(
             Integer numberOfRequiredDrones,
